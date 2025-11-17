@@ -232,5 +232,6 @@
   "Please enter a valid phone number": "الرجاء إدخال رقم هاتف صحيح",
   "Please enter your last name": "الرجاء إدخال اسم العائلة",
   "Please enter your first name": "الرجاء إدخال اسمك الأول",
-  "User does not have any voucher to make a prediction": "لا يملك المستخدم أي قسيمة للتنبؤ"
+  "User does not have any voucher to make a prediction": "لا يملك المستخدم أي قسيمة للتنبؤ",
+  "Phone number already in use": "رقم الهاتف مستخدم بالفعل"
 }

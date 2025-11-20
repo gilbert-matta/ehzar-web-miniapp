@@ -4,19 +4,28 @@
     <base href="/" />
     <meta charset="UTF-8" />
     <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
-    <meta name="description" content="Ahzir SuperQi Integration" />
+    <meta name="description" content="Ihzar SuperQi Integration" />
 
     <!-- iOS meta tags & icons -->
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="ahzir" />
+    <meta name="apple-mobile-web-app-title" content="ihzar" />
     <link rel="apple-touch-icon" href="icons/Icon-192.png" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link rel="manifest" href="manifest.json" />
-    <title>ahzir</title>
+    <title>Ihzar</title>
 
     <!-- ✅ load before Flutter -->
     <script src="https://cdn.marmot-cloud.com/npm/hylid-bridge/2.10.0/index.js"></script>
+
+    <!-- QI NEO Payment Handler -->
+    <script src="js/qi_neo_payment.js"></script>
+
+    <!-- Google reCAPTCHA v3 -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdahBEsAAAAACU5XKjZqhMMyqT4F2e8YCQ63k2e"></script>
+
+    <!-- reCAPTCHA Handler -->
+    <script src="js/recaptcha_handler.js"></script>
 
     <script>
       console.log("✅ Injecting SuperQiAuth bridge...");

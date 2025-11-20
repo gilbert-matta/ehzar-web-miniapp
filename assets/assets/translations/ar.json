@@ -233,5 +233,12 @@
   "Please enter your last name": "الرجاء إدخال اسم العائلة",
   "Please enter your first name": "الرجاء إدخال اسمك الأول",
   "User does not have any voucher to make a prediction": "لا يملك المستخدم أي قسيمة للتنبؤ",
-  "Phone number already in use": "رقم الهاتف مستخدم بالفعل"
+  "Phone number already in use": "رقم الهاتف مستخدم بالفعل",
+  "Payment successful":  "تم الدفع بنجاح",
+  "Payment is processing": "جاري معالجة الدفع",
+  "Payment failed": "فشل الدفع",
+  "User cancelled the payment": "قام المستخدم بإلغاء الدفع",
+  "Network error occurred": "حدث خطأ في الشبكة",
+  "Unknown payment result": "نتيجة الدفع غير معروفة",
+  "Prizes": "الجوائز"
 }

@@ -240,5 +240,9 @@
   "User cancelled the payment": "قام المستخدم بإلغاء الدفع",
   "Network error occurred": "حدث خطأ في الشبكة",
   "Unknown payment result": "نتيجة الدفع غير معروفة",
-  "Prizes": "الجوائز"
+  "Prizes": "الجوائز",
+  "You can use one of these packages to be able to predict": "يمكنك استخدام إحدى هذه القسائم لتتمكن من التنبؤ",
+  "Daily Challenges": "التحديات اليومية",
+  "Select": "اختر",
+  "Checkout": "الدفع"
 }

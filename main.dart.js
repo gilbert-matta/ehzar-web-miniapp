@@ -8757,7 +8757,7 @@ a1r:function a1r(){},
 uO:function uO(){},
 abb:function abb(){},
 ak9:function ak9(){},
-c6(){var s=new A.aDc(),r=A.bUs("https://dashboard.ihzar.app/api/",B.m7,B.m7),q=new A.a7I(A.a([B.a0B],t.i6)),p=new A.aDh($,q,$,new A.aHu(51200),!1)
+c6(){var s=new A.aDc(),r=A.bUs("https://ihzar-api.ihzar.app/api/",B.m7,B.m7),q=new A.a7I(A.a([B.a0B],t.i6)),p=new A.aDh($,q,$,new A.aHu(51200),!1)
 p.agf$=r
 p.agg$=new A.aza(A.aW(t.o))
 s.a=p
@@ -44715,7 +44715,7 @@ A.bse.prototype={
 $1(a){var s=A.iW().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/010c8a806bccad64ab9972286b85dd24ca98441f/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/f73bfc4522dd0bc87bbcdb4bb3088082755c5e87/":s)+a},
 $S:43}
 A.aA8.prototype={
 er(a){B.d.aO(this.a.a.save())},
@@ -61132,7 +61132,7 @@ var $async$Bt=A.n(function(d,e){if(d===1)return A.o(e,r)
 while(true)switch(s){case 0:o=p.a
 o===$&&A.b()
 s=3
-return A.k(o.b6e(0,"https://dashboard.ihzar.app/api/"+b,null,null,null,A.aDl("GET",A.aR6(null,new A.aDd())),c,t.z),$async$Bt)
+return A.k(o.b6e(0,"https://ihzar-api.ihzar.app/api/"+b,null,null,null,A.aDl("GET",A.aR6(null,new A.aDd())),c,t.z),$async$Bt)
 case 3:q=e
 s=1
 break
@@ -61145,7 +61145,7 @@ var $async$Gx=A.n(function(d,e){if(d===1)return A.o(e,r)
 while(true)switch(s){case 0:o=p.a
 o===$&&A.b()
 s=3
-return A.k(o.B9(0,"https://dashboard.ihzar.app/api/"+a,null,b,null,null,A.aDl("POST",A.aR6(c,new A.aDf(a))),null,t.z),$async$Gx)
+return A.k(o.B9(0,"https://ihzar-api.ihzar.app/api/"+a,null,b,null,null,A.aDl("POST",A.aR6(c,new A.aDf(a))),null,t.z),$async$Gx)
 case 3:q=e
 s=1
 break
@@ -61157,7 +61157,7 @@ var $async$B5=A.n(function(d,e){if(d===1)return A.o(e,r)
 while(true)switch(s){case 0:o=p.a
 o===$&&A.b()
 s=3
-return A.k(o.B9(0,"https://dashboard.ihzar.app/api/"+b,null,c,null,null,A.aDl("PUT",A.aR6(null,new A.aDg(b))),null,t.z),$async$B5)
+return A.k(o.B9(0,"https://ihzar-api.ihzar.app/api/"+b,null,c,null,null,A.aDl("PUT",A.aR6(null,new A.aDg(b))),null,t.z),$async$B5)
 case 3:q=e
 s=1
 break
@@ -61169,7 +61169,7 @@ var $async$Gr=A.n(function(c,d){if(c===1)return A.o(d,r)
 while(true)switch(s){case 0:o=p.a
 o===$&&A.b()
 s=3
-return A.k(o.B9(0,"https://dashboard.ihzar.app/api/"+a,null,b,null,null,A.aDl("PATCH",A.aR6(null,new A.aDe(a))),null,t.z),$async$Gr)
+return A.k(o.B9(0,"https://ihzar-api.ihzar.app/api/"+a,null,b,null,null,A.aDl("PATCH",A.aR6(null,new A.aDe(a))),null,t.z),$async$Gr)
 case 3:q=d
 s=1
 break
@@ -64249,7 +64249,7 @@ case 2:return A.o(o.at(-1),r)}})
 return A.q($async$tk,r)},
 pK(){var s=0,r=A.r(t.z),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$pK=A.n(function(a,b){if(a===1){o.push(b)
-s=p}while(true)switch(s){case 0:h="https://dashboard.ihzar.app/api/"
+s=p}while(true)switch(s){case 0:h="https://ihzar-api.ihzar.app/api/"
 s=3
 return A.k(A.iu(),$async$pK)
 case 3:g=b

@@ -10,6 +10,7 @@
   "Notification": "إشعار",
   "Profile": "الحساب الرئيسي",
   "Ongoing Tournaments":  "البطولات الجارية",
+  "Championships": "البطولات",
   "Favorite Matches": "المباريات المفضلة",
   "Upcoming Matches": "المباريات القادمة",
   "Welcome!": "مرحباً!",
@@ -195,6 +196,7 @@
   "Not enough available packages to use": "لا تتوفر حزم كافية للاستخدام",
   "User already used a package for this campaign": "لقد استخدم المستخدم بالفعل حزمة لهذه الحملة",
   "Submit predictions": "إرسال التوقعات",
+  "make sure to Submit predictions when finished": "تأكد من إرسال التوقعات عند الانتهاء",
   "Score": "النتيجة",
   "There is no leaderboard results right now!": "لا توجد نتائج للمتصدرين في الوقت الحالي!",
   "daily": "يوميا",
@@ -245,5 +247,11 @@
   "Daily Challenges": "التحديات اليومية",
   "Select": "اختر",
   "Checkout": "شراء الآن",
-  "Quick Access": "وصول سريع"
+  "Quick Access": "وصول سريع",
+  "Packages": "القسائم",
+  "Swipe through active tournaments! Tap any tournament to see matches and compete for prizes.": "مرّر عبر البطولات! اضغط على أي بطولة للتوقع في المباريات والتنافس على الجوائز.",
+  "Choose Your Prediction Package": "اختر حزمة التوقعات الخاصة بك",
+  "Select a lantern package to start making predictions for this tournament": "اختر حزمة فانوس لبدء التنبؤ بهذه البطولة",
+  "Got it!": "فهمت!",
+  "Track your prediction progress here. Make sure to submit all predictions before the deadline!": "تتبع تقدم توقعاتك هنا. تأكد من إرسال جميع التوقعات قبل الموعد النهائي!"
 }

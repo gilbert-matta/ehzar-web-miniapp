@@ -39,9 +39,16 @@ async function executeRecaptcha(action) {
  * Flutter callback wrapper
  */
 function getRecaptchaToken(action, callback) {
+    console.log(`📞 getRecaptchaToken called for action: ${action}`);
     executeRecaptcha(action)
-        .then(token => callback(true, token))
-        .catch(err => callback(false, err.toString()));
+        .then(token => {
+            console.log(`✅ Success - calling callback with token`);
+            callback(true, token);
+        })
+        .catch(err => {
+            console.error(`❌ Error - calling callback with failure:`, err);
+            callback(false, ""); // Pass empty string on error, not error message
+        });
 }
 
 // Expose to Flutter
